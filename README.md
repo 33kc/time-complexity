@@ -3,4 +3,5 @@ clone:
 git clone https://github.com/33kc/time-complexity.git
 ```
 
-i was bored so i made this
+this plots computational time : O(n), O(n^2), O(log n) etc... <Br>
+on a graph using matplotlib
